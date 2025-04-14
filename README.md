@@ -30,7 +30,7 @@ This project focuses on improving digital forensic investigations using machine 
 - `num_unique_apis`
 - `source`
 - link of datasheet to view: https://docs.google.com/spreadsheets/d/1yluIXEu_XRjAaaotMhQkdW01QqPiiFWnmlhzJy_CDgA/edit?gid=0#gid=0
-- run Data dummy_data_API_generation.py to generate the dummy data
+- run dummy_data_API_generation.py to generate the dummy data
 
 ### 2. **Network Traffic Dataset**
 - `Duration`
@@ -43,7 +43,7 @@ This project focuses on improving digital forensic investigations using machine 
 - `ByteCount`
 - `Label`
 - link of datasheet to view: https://docs.google.com/spreadsheets/d/1toiier58qqNEnMRIRMisAtXSwovlnpxRWAuaKIXuYZk/edit?gid=0#gid=0 
-- run Data dummydata.py to generate the dummy data
+- run dummydata.py to generate the dummy data
 ---
 
 ## 🧪 Methodology
